@@ -1,0 +1,84 @@
+{
+  "continents": [
+    {
+      "name": "Europa",
+      "slug": "europe",
+      "banner": "BannerEurope.svg",
+      "text": [
+        "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste"
+      ],
+      "count_countries": 50,
+      "count_languages": 60,
+      "count_cities": 27,
+      "countries": [
+        {
+          "name": "Reino unido",
+          "city": "Londres",
+          "image_city": "LondonCity.svg",
+          "flag": "british-flag.png"
+        },
+        {
+          "name": "França",
+          "city": "Paris",
+          "image_city": "ParisCity.svg",
+          "flag": "france-flag-icon.png"
+        },
+        {
+          "name": "Itália",
+          "city": "Roma",
+          "image_city": "RomaCity.svg",
+          "flag": "italy-flag-icon.png"
+        },
+        {
+          "name": "República Tcheca",
+          "city": "Praga",
+          "image_city": "PragaCity.svg",
+          "flag": "czech-republic-flag-icon.png"
+        },
+        {
+          "name": "Holanda",
+          "city": "Amsterdã",
+          "image_city": "AmsterdaCity.svg",
+          "flag": "netherlands-flag-icon.png"
+        }
+      ]
+    },
+    {
+      "name": "América do Sul",
+      "slug": "south-america",
+      "banner": "BannerSouthAmerica.svg",
+      "text": [
+        "A América do Sul é um subcontinente pertencente à América. A maior parte do seu território se encontra no hemisfério sul, além de estar na porção oeste do planeta. É banhada pelos oceanos Pacífico, a oeste, e Atlântico, a leste. Possui 12 países e um território ultramarino, a Guiana Francesa."
+      ],
+      "count_countries": 12,
+      "count_languages": 10,
+      "count_cities": 20,
+      "countries": [
+        {
+          "name": "Brasil",
+          "city": "Rio de janeiro",
+          "image_city": "RioCity.svg",
+          "flag": "brazil-flag.png"
+        },
+        {
+          "name": "Argentina",
+          "city": "Buenos aires",
+          "image_city": "BuenosAiresCity.svg",
+          "flag": "argentina-flag.png"
+        },
+        {
+          "name": "Uruguai",
+          "city": "Montevidéu",
+          "image_city": "MontevideoCity.svg",
+          "flag": "uruguay-flag.png"
+        },
+        {
+          "name": "Chile",
+          "city": "Santiago",
+          "image_city": "SantiagoCity.svg",
+          "flag": "chile-flag-icon.png"
+        }
+      ]
+    }
+  ]
+}
