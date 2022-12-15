@@ -1,4 +1,4 @@
 <div align="center">
   <img src="./Home.png">
 </div>
-Desafio Ignite Reactjs: Interface Chakra UI
+<h3 align="center">Desafio Ignite Reactjs: Interface Chakra UI</h3>
