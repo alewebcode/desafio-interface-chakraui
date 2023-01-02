@@ -16,3 +16,11 @@ Para isso, deixamos instalado no seu package.json uma dependência chamada `json
 ```js
   yarn json-server server.json -p 3333
 ```
+## ✨ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Chakra Ui](https://chakra-ui.com/)
