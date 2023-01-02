@@ -7,7 +7,7 @@
 
 Nesse desafio, o objetivo era criar uma interface com os recursos do Chakra UI.Além disso implementei também os recursos do NextJs como o getStaticProps e getStaticPaths
 
-### Como executar
+### :computer Como executar
 
 ### Fake Api
 Antes de tudo, para que você tenha os dados para exibir em tela, criei um arquivo que você poderá utilizar como fake API para prover esses dados.
