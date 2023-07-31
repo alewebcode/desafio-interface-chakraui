@@ -12,7 +12,7 @@ Nesse desafio, o objetivo era criar uma interface com os recursos do Chakra UI.A
 ### Fake Api
 Antes de tudo, para que você tenha os dados para exibir em tela, criei um arquivo que você poderá utilizar como fake API para prover esses dados.
 
-Para isso, deixei instalado no seu package.json uma dependência chamada `json-server`, e um arquivo chamado `db.json` que contém os dados a serem apresentados nas páginas. Para executar esse servidor você pode executar o seguinte comando:
+Para isso, deixei instalado no seu package.json uma dependência chamada `json-server`, e um arquivo chamado `db.json` que contém os dados a serem apresentados nas páginas. Para executar esse servidor o seguinte comando deve ser utilizado:
 
 ```js
   yarn json-server server.json -p 3333
